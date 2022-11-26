@@ -1,0 +1,15 @@
+E:\homework\final01\Final_work_specialization\bin\Debug\net6.0\Final_work_specialization.exe
+E:\homework\final01\Final_work_specialization\bin\Debug\net6.0\Final_work_specialization.deps.json
+E:\homework\final01\Final_work_specialization\bin\Debug\net6.0\Final_work_specialization.runtimeconfig.json
+E:\homework\final01\Final_work_specialization\bin\Debug\net6.0\Final_work_specialization.dll
+E:\homework\final01\Final_work_specialization\bin\Debug\net6.0\Final_work_specialization.pdb
+E:\homework\final01\Final_work_specialization\obj\Debug\net6.0\Final_work_specialization.csproj.AssemblyReference.cache
+E:\homework\final01\Final_work_specialization\obj\Debug\net6.0\Final_work_specialization.GeneratedMSBuildEditorConfig.editorconfig
+E:\homework\final01\Final_work_specialization\obj\Debug\net6.0\Final_work_specialization.AssemblyInfoInputs.cache
+E:\homework\final01\Final_work_specialization\obj\Debug\net6.0\Final_work_specialization.AssemblyInfo.cs
+E:\homework\final01\Final_work_specialization\obj\Debug\net6.0\Final_work_specialization.csproj.CoreCompileInputs.cache
+E:\homework\final01\Final_work_specialization\obj\Debug\net6.0\Final_work_specialization.dll
+E:\homework\final01\Final_work_specialization\obj\Debug\net6.0\refint\Final_work_specialization.dll
+E:\homework\final01\Final_work_specialization\obj\Debug\net6.0\Final_work_specialization.pdb
+E:\homework\final01\Final_work_specialization\obj\Debug\net6.0\Final_work_specialization.genruntimeconfig.cache
+E:\homework\final01\Final_work_specialization\obj\Debug\net6.0\ref\Final_work_specialization.dll
